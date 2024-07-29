@@ -8,10 +8,11 @@ simulate a user filling out the registration form and submitting it.
 ## Demo Website used:
 * [nopCommerce Demo Store](https://demo.nopcommerce.com/) <br><img title="nopCommerce Demo Store" src="https://demo.nopcommerce.com/Themes/DefaultClean/Content/images/logo.png">
 ## Project Design:
+* Used Selenium that being utilized by SHAFT-Engine under the hood
+* Used TestNG framework throughout the project with its great annotations
 * Page Object Model (POM) design pattern.
 * Fluent design approach (method chaining) for better test case readability.
-* Data Driven Testing (store data as JSON files).
-* Used TestNG framework throughout the project with its great annotations
+* Data Driven Testing (store data as JSON files). 
 * Used Allure reports to provide a comprehensive report about the test cases and their status
 
 ## How to run the project 
