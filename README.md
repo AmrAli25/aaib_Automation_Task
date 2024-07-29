@@ -16,5 +16,6 @@ simulate a user filling out the registration form and submitting it.
 * Used Allure reports to provide a comprehensive report about the test cases and their status
 
 ## How to run the project 
-* Using Maven installed on your machine you need to clone the repo on your machine, run the command "mvn test" in an opened terminal in the project directory, or Use IntelliJ IDE to run it through the Code Editor with Java JDK installed on the machine 
+* Using Maven installed on your machine you need to clone the repo on your machine, run the command "mvn test" in an opened terminal in the project directory, or Use IntelliJ IDE to run it through the Code Editor with Java JDK installed on the machine
+* You will need to see how to install Maven on your device by using this link "https://maven.apache.org/install.html" and download the suitable version for your device, also you'll need JAVA_HOME added to your PATH environment beside the Maven bin in the system variable environment.
 * Allure report will be generated automatically if not you can open it by Allure serve if Allure is installed on your device  
