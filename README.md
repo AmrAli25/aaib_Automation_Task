@@ -1,4 +1,4 @@
-This is a task for AAIB to automate a test case:
+
 * TC1: Successfully register a new account at the Account Creation Link. This test should
 simulate a user filling out the registration form and submitting it.
 
